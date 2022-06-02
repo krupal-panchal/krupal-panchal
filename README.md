@@ -57,15 +57,16 @@
 <h3 align="center">IDE & Tools:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/-windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows?r=1) 
+[![image](https://img.shields.io/badge/-windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows?r=1)
 [![image](https://img.shields.io/badge/-sublime_text-black?style=for-the-badge&logo=sublimetext&logoColor=f48225)](https://www.sublimetext.com/)
+[![image](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
+[![image](https://img.shields.io/badge/-PHPStorm-f48225?style=for-the-badge&logo=phpstorm&logoColor=black)](https://www.jetbrains.com/phpstorm/)
 [![image](https://img.shields.io/badge/-filezilla-BF0000?style=for-the-badge&logo=filezilla)](https://filezilla-project.org/) 
 [![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 [![image](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=F37623)](https://www.postman.com/)
 [![image](https://img.shields.io/badge/-phpmyadmin-f48225?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 [![image](https://img.shields.io/badge/-slack-2EB67D?style=for-the-badge&logo=slack)](https://slack.com/) 
 [![image](https://img.shields.io/badge/-basecamp-FFD51C?style=for-the-badge&logo=basecamp&logoColor=black)](https://basecamp.com/)
-[![image](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual%20studio%20code)](https://basecamp.com/)
 </div>
 
 <h3 align="center">📧 Connect with me:</h3>
