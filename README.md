@@ -43,8 +43,8 @@
 <h3 align="center">Version Control:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/) 
-[![image](https://img.shields.io/badge/-github-E34F26?style=for-the-badge&logo=github)](https://github.com/) 
+[![image](https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![image](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/) 
 </div>
 
 <h3 align="center">Testing:</h3>
