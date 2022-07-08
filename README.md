@@ -68,7 +68,8 @@
 [![image](https://img.shields.io/badge/-phpmyadmin-f48225?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 [![image](https://img.shields.io/badge/-slack-2EB67D?style=for-the-badge&logo=slack)](https://slack.com/) 
 [![image](https://img.shields.io/badge/-basecamp-FFD51C?style=for-the-badge&logo=basecamp&logoColor=black)](https://basecamp.com/)
-[![image](https://img.shields.io/badge/-jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)](https://basecamp.com/)
+[![image](https://img.shields.io/badge/-jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![image](https://img.shields.io/badge/Trello-1DA1F2?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 </div>
 
 <h3 align="center">📧 Connect with me:</h3>
@@ -81,6 +82,7 @@
 [![image](https://img.shields.io/badge/stackoverflow-f48225?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10175848/krupal-panchal)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krupal.panchal.11/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krupalpanchal11)
+
 </div>
 
 <br>
