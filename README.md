@@ -45,6 +45,7 @@
 
 [![image](https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![image](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/) 
+[![image](https://img.shields.io/badge/-bitbucket-0052cc?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/product) 
 </div>
 
 <h3 align="center">Testing:</h3>
@@ -67,6 +68,7 @@
 [![image](https://img.shields.io/badge/-phpmyadmin-f48225?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 [![image](https://img.shields.io/badge/-slack-2EB67D?style=for-the-badge&logo=slack)](https://slack.com/) 
 [![image](https://img.shields.io/badge/-basecamp-FFD51C?style=for-the-badge&logo=basecamp&logoColor=black)](https://basecamp.com/)
+[![image](https://img.shields.io/badge/-jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)](https://basecamp.com/)
 </div>
 
 <h3 align="center">📧 Connect with me:</h3>
