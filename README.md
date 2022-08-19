@@ -71,6 +71,7 @@
 [![image](https://img.shields.io/badge/-basecamp-FFD51C?style=for-the-badge&logo=basecamp&logoColor=black)](https://basecamp.com/)
 [![image](https://img.shields.io/badge/-jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![image](https://img.shields.io/badge/Trello-1DA1F2?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![image](https://img.shields.io/badge/asana-f05f70?style=for-the-badge&logo=asana&logoColor=white)](https://asana.com/)
 </div>
 
 <h3 align="center">📧 Connect with me:</h3>
